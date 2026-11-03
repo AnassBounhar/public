@@ -1,6 +1,6 @@
 # JBoss Manager
 
-Public download page for version 0.4.1.
+Public download page for version 0.4.1 (all platforms).
 
 The page is published at <https://anassbounhar.github.io/public/jboss-manager/>.
 
