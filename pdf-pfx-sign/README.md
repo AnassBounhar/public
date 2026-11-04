@@ -1,7 +1,7 @@
 # PDF PFX Sign
 
-Public download page for version 0.0.9.
+Public download page for version 0.0.10.
 
 The page is published at <https://anassbounhar.github.io/public/pdf-pfx-sign/>.
 
-Installers, archives, and the Edge extension are attached to the [pdf-pfx-sign-v0.0.9 release](https://github.com/AnassBounhar/public/releases/tag/pdf-pfx-sign-v0.0.9).
+Installers, archives, and the Edge extension are attached to the [pdf-pfx-sign-v0.0.10 release](https://github.com/AnassBounhar/public/releases/tag/pdf-pfx-sign-v0.0.10).
